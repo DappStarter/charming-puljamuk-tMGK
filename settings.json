@@ -1,0 +1,19 @@
+{
+    "name": "test-token-esvyda",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "TEST TOKEN ESVYDA",
+        "/category/asset_value_tracking/core-token/symbol": "TTS",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "1000000",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single",
+        "/category/collection/core-entity": true
+    }
+}
